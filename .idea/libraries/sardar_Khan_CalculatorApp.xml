@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sardar_Khan_CalculatorApp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Calculator/sardar_Khan_CalculatorApp.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

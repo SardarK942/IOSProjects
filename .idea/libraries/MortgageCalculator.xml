@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="MortgageCalculator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MortgageCalculator/Khan_Sardar_masterDetailApp.zip!/" />
+      <root url="jar://$PROJECT_DIR$/MortgageCalculator/Sardar_Khan_Mortgage_Calculator.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

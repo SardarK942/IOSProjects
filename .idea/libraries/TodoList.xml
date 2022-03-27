@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="TodoList">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TodoList/ShoppingListApp 2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TodoList/ShoppingListApp.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

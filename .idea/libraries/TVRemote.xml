@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="TVRemote">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TVRemote/TVRemote.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TVRemote/TVRemoteAndDVR.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TVRemote/assignment7.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
